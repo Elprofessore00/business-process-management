@@ -60,6 +60,15 @@
         <mxCell id="s78XeC1ukGy34A1hPwvS-30" value="Create&amp;nbsp;&lt;div&gt;UI Pages&amp;nbsp;&lt;span style=&quot;background-color: light-dark(rgb(255, 255, 255), rgb(18, 18, 18)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Code&lt;br&gt;Implement APIs&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=#ffffff;" parent="_NAjd95ejBewOYBBOETD-5" vertex="1">
           <mxGeometry x="90" y="40" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="_NAjd95ejBewOYBBOETD-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="_NAjd95ejBewOYBBOETD-5" source="_NAjd95ejBewOYBBOETD-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="150" y="170" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="355" y="120" />
+              <mxPoint x="150" y="120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="_NAjd95ejBewOYBBOETD-14" value="" style="shape=mxgraph.bpmn.gateway2;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;outlineConnect=0;outline=end;symbol=general;points=[[0.25,0.25,0],[0.5,0,0],[0.75,0.25,0],[1,0.5,0],[0.75,0.75,0],[0.5,1,0],[0.25,0.75,0],[0,0.5,0]];perimeter=rhombusPerimeter;" vertex="1" parent="_NAjd95ejBewOYBBOETD-5">
           <mxGeometry x="330" y="45" width="50" height="50" as="geometry" />
         </mxCell>
